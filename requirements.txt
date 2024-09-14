@@ -6,5 +6,4 @@ matplotlib
 netCDF4
 h5netcdf
 numpy
-PIL
 geopandas
